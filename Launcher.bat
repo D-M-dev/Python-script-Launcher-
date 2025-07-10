@@ -1,5 +1,5 @@
 @echo off
-title Python program launcher v1.2 by D.M
+title Python program launcher v1.2 by Jupik the dev
 color 1F
 cls
 
